@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /activities/
+title: activities
+description: A list of academic services and other activities
 nav: true
 nav_order: 5
 ---
