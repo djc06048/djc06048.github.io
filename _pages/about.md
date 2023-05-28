@@ -13,10 +13,10 @@ profile:
     <p><a href="https://velog.io/@djc06048">TECHBLOG</a></p>
     <p><a href="https://github.com/djc06048">GITHUB</a></p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 # 안녕하세요, 박혜림입니다! 👋
