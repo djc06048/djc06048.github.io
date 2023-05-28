@@ -11,7 +11,6 @@ profile:
   address: >
     <p><a href="mailto:gsafe1213@gmail.com">EMAIL</a></p>
     <p><a href="https://velog.io/@djc06048">TECHBLOG</a></p>
-    <p><a href="https://github.com/djc06048">GITHUB</a></p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
